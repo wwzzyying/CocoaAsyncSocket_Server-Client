@@ -14,5 +14,6 @@
 
 ## Server端截图
 ![Server](Server.png)
-## Client端截图
 
+## Client端截图
+![Client](Client.png)
