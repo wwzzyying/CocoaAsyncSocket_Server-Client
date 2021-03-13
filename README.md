@@ -13,6 +13,6 @@
 3、点击“发送”发送消息给Server端，点击“断开”即断开与Server的连接，但可重连
 
 ## Server端截图
-
+![Server](Server.png)
 ## Client端截图
 
