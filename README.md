@@ -1,6 +1,7 @@
 # CocoaAsyncSocket_Server-Client
 包含Server端和Client端基于TCP协议的实现，可自行修改host和port后在两台模拟器运行
 需要先点击Server端“连接”再点击Client端“连接”
+Server端没有断开操作
 
 ## Server端使用操作
 1、点击“连接”按钮绑定端口并进行监听
